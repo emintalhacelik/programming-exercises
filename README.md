@@ -33,7 +33,7 @@ The goal of this repository is to:
 
 * Store examples for future reference
 
-## Authorize
+## Projects Owner
 
 * Emin Talha Celik
   
