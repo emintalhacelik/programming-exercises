@@ -33,8 +33,13 @@ The goal of this repository is to:
 
 * Store examples for future reference
 
+## Authorize
+
+* Emin Talha Celik
+  
 ## Notes
 
-These codes are mainly for learning and experimentation, so they may be simple or incomplete.
+* Please note that these projects were created by me as a first-year software engineering student; they are not large-scale projects, but were created purely for learning purposes.
+* In conclusion, these codes are mainly for learning and experimentation, so they may be simple or incomplete.
 
 Learning step by step 🚀
