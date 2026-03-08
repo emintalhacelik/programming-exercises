@@ -20,4 +20,5 @@ int main(){
     printf("Average of all numbers: %.2f\n", average);
 
     return 0;
+
 }
