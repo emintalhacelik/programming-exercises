@@ -1,5 +1,5 @@
 @ECHO OFF
 C:
-CD "\Users\emint\OneDrive\Masast"
+CD "\Users\emint\OneDrive\MasaÂstÂ"
 "C:\Program Files\Java\jdk-17\bin\java.exe" CelikEminTalhaGuessCodeNumber
 PAUSE
